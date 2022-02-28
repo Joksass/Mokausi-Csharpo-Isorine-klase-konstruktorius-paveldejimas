@@ -11,14 +11,14 @@ namespace ExClass
 
             DateTime end; //kodo vykdymo pabaiga
 
-            matematika obj = new matematika();
+            matieka obj = new matieka(5);//paduodam faktorialo skaiciu
             obj.uzduotis();
+            obj.write();
 
             end = DateTime.Now;
-
             TimeSpan laikas = (end - start);
 
-            Console.WriteLine("Galutinis skaicius: " + obj.suskaiciuota + "\nPrireikė kartų: " + obj.k + "\nUžtruko: " + laikas.TotalMilliseconds + " ms");
+            Console.WriteLine("\nUžtruko: " + laikas.TotalMilliseconds + "ms");
             Console.ReadLine();
         }
     }
