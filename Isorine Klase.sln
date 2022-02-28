@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isorine Klase", "Isorine Klase\Isorine Klase.csproj", "{600C6CE2-A4D0-4F01-AC51-D7583E8F9612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600C6CE2-A4D0-4F01-AC51-D7583E8F9612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600C6CE2-A4D0-4F01-AC51-D7583E8F9612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600C6CE2-A4D0-4F01-AC51-D7583E8F9612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600C6CE2-A4D0-4F01-AC51-D7583E8F9612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668FD633-6694-4071-A6B6-1FD6A580CE9C}
+	EndGlobalSection
+EndGlobal
